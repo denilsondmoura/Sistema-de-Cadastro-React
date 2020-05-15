@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Denilson D. Moura",
+      "email": "denilsonm604@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Janailson Mariano",
+      "email": "janaboy144@gmail.com"
+    },
+    {
+      "name": "Diego Farias",
+      "email": "dfarias0089@outlook.com",
+      "id": 3
+    },
+    {
+      "name": "Jardelson Alves ",
+      "email": "jallves66@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Rosilda Mendes",
+      "email": "rdasilva@gmail.com",
+      "id": 5
+    }
+  ]
+}
